@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evillyn</h1>
-<h3 align="center">I'm a back-end developer</h3>
+<h3 align="center">I'm a back-end developer student</h3>
 
 - 🔭 I’m currently working on **spring framework**
 
