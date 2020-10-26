@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **spring framework**
 
-- 👯 I’m looking to collaborate on **java projects**
+- 👯 I’m looking to collaborate on **java/javaScriptoooo projects**
 
-- 🤝 I’m looking for help with **react**
+- 🤝 I’m looking for help with **java/react/node**
 
 - 👨‍💻 All of my projects are available at [github.com/ev1illyn](github.com/ev1illyn)
-
-- 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **https://www.linkedin.com/in/evillyn-oliveira-1377b719b/**
 
