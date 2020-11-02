@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evillyn</h1>
 <h3 align="center">I'm a back-end developer student</h3>
 
-<p align="left" style="background-image: url('https://occ-0-4031-3851.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABT5i6-SV3Ni71lFfSPe0WRkdWLEVBJ8PoO7G9o_1q-ObznIwXQ4l9nDDk87k9abiv_-DEDZLgqOw7ufDNEl6pwNgqPlSdnHWldkLjDzUp7J0BzX95BMFGVj4tX-JdYBUwEvhfSR1uq0iC9lTGSVEie-Ykzcy5jMDn217ItAvHDiB1g.webp?r=8d2');">
 - 🔭 I’m currently working on **spring framework**
 
 - 🌱 I’m currently learning **spring framework**
@@ -13,8 +12,8 @@
 - 👨‍💻 All of my projects are available at [github.com/ev1illyn](github.com/ev1illyn)
 
 - 📫 How to reach me **https://www.linkedin.com/in/evillyn-oliveira-1377b719b/**
-</p>
 
+<img align="center" src="https://user-images.githubusercontent.com/30708285/97820491-3cbe4100-1c8d-11eb-8ea4-8546f06a1cbc.png" alt="ev1illyn" height="20%" width="20%" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ev1illyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ev1illyn" height="30" width="40" /></a>
