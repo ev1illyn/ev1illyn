@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evillyn</h1>
 <h3 align="center">I'm a back-end developer student</h3>
 
+<p align="left" style="background-image: url('https://user-images.githubusercontent.com/30708285/97820171-a1789c00-1c8b-11eb-889f-ad7ae79412af.png')">
 - 🔭 I’m currently working on **spring framework**
 
 - 🌱 I’m currently learning **spring framework**
@@ -12,8 +13,7 @@
 - 👨‍💻 All of my projects are available at [github.com/ev1illyn](github.com/ev1illyn)
 
 - 📫 How to reach me **https://www.linkedin.com/in/evillyn-oliveira-1377b719b/**
-
-<img align="right" src="https://user-images.githubusercontent.com/30708285/97820171-a1789c00-1c8b-11eb-889f-ad7ae79412af.png" alt="evillyn-oliveira-1377b719b/" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
