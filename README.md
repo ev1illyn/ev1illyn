@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/evillyn-oliveira-1377b719b/**
 
+<img align="right" src="https://user-images.githubusercontent.com/30708285/97820171-a1789c00-1c8b-11eb-889f-ad7ae79412af.png" alt="evillyn-oliveira-1377b719b/" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ev1illyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ev1illyn" height="30" width="40" /></a>
