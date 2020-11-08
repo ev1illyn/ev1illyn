@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/evillyn-oliveira-1377b719b/**
 
+"Everything in space is essentially in free fall".
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ev1illyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ev1illyn" height="30" width="40" /></a>
