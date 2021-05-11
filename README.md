@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **spring framework**
 
-- 🌱 I’m currently learning **spring framework**
+- 🌱 I’m currently learning **spring framework and reactjs**
 
 - 👯 I’m looking to collaborate on **java/javaScriptoooo projects**
 
